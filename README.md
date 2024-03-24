@@ -1,2 +1,2 @@
-# tetk
-Technica Engineering Toolkit
+# xtr
+Technica Engineering Test Runner
